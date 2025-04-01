@@ -794,7 +794,9 @@ textarea.contact-input {
    */
 
   .portfolio-list li:nth-child(even) .card-content { margin-inline-start: 50%; }
-
+  .hero-content .btn-group{
+    display: flex;
+  }
 }
 
 
